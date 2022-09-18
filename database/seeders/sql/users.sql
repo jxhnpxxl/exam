@@ -1,0 +1,3 @@
+INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `two_factor_secret`, `two_factor_recovery_codes`, `two_factor_confirmed_at`, `remember_token`, `current_team_id`, `profile_photo_path`, `created_at`, `updated_at`) VALUES 
+(1,'Anna Doe','anna@sample.com',NULL,'$2y$10$hQA1xoZbZ6di9ez83Y/3m.nvzNwJ1MqMv50AKp2RSZhioR.ggWBcu',NULL,NULL,NULL,NULL,NULL,NULL,'2022-09-18 04:19:08','2022-09-18 04:19:08'),
+(2,'John Doe','john@sample.com',NULL,'$2y$10$lbjPl6SLBFyQrLERT59G9uUh5PfcPvB4MxG7MKsHwlh6bTGhH8ZWy',NULL,NULL,NULL,NULL,NULL,NULL,'2022-09-18 04:31:13','2022-09-18 04:31:13');
